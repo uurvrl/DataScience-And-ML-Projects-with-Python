@@ -1,2 +1,2 @@
 # PythonProjects
-Python Projects, each project contains the questions itself and codes that I used to solve.
+My Python Projects, each project contains the case itself and codes that I used to solve.
