@@ -1,2 +1,2 @@
 # PythonProjects
-Python Projects explanations and codes that I solved
+Python Projects, each project contains the questions itself and codes that I used to solve.
