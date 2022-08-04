@@ -10,3 +10,7 @@ My Data Science & ML Projects. Each project contains the case itself, codes and 
 3- Telco - Feature Engineering
 
    Analyzing customers who might leave the company
+
+4- Salary prediction case - Regression model
+   Analyzing the given data of baseball players to predict their salaries.
+   
