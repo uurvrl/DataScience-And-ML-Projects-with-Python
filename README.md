@@ -12,5 +12,9 @@ My Data Science & ML Projects. Each project contains the case itself, codes and 
    Analyzing customers who might leave the company
 
 4- Salary prediction case - Regression model
+
    Analyzing the given data of baseball players to predict their salaries.
    
+5- House price prediction - Regression models
+
+   Building a house price prediction model with using XGBoost.
