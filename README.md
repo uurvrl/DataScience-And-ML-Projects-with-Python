@@ -18,3 +18,7 @@ My Data Science & ML Projects. Each project contains the case itself, codes and 
 5- House price prediction - Regression models
 
    Building a house price prediction model with using XGBoost.
+
+6- Telco Customer Churn Prediction - Classification
+
+   Building a model to predict which customers might leave the telecom service. Used RandomForest
