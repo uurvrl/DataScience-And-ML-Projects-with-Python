@@ -1,7 +1,7 @@
 # PythonProjects
 My Data Science & ML Projects. Each project contains the case itself, codes and necessary data file(s).
 
-1- Rule Based Classification
+1- Telco - Rule Based Classification (Beginner Data Analysis)
 
 2- Diabetes Analysis Case - Feature Engineering
 
